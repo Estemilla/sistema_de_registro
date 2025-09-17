@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```nmp install react ```
+
+<H1> Sistema de Registro 2 </H2>
